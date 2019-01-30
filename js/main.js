@@ -1,6 +1,6 @@
 let balance = 0;
 let withdraw = 0;
-let name = `John Doe`;
+let name = `Brown George`;
 
 
 // Greet the user by name
